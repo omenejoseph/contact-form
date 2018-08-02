@@ -1,0 +1,19 @@
+{
+    "name": "omenejoseph/contact",
+    "description": "contact form for sending messages",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Omene Joseph",
+            "email": "omene_joseph@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Omenejoseph\\Contact\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
