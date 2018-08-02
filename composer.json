@@ -14,6 +14,13 @@
             "Omenejoseph\\Contact\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Omenejoseph\\Contact\\ContactServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
